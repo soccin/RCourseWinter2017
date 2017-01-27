@@ -1,5 +1,7 @@
 # RCourseWinter2017
 
+[Website](https://soccin.github.io/RCourseWinter2017/)
+
 ## Week 2
 
 Useful link for more on scoping in R:
